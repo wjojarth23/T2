@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/*define max and min height and width for the text editor*/
+.tiptap {
+    min-height: 905px;
+    max-height: 1200px;
+    min-width: 700px;
+    max-width: 700px;
+}
